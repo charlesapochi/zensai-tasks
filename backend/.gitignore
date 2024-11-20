@@ -1,2 +1,8 @@
 .env
 db.sqlite3
+poetry.lock
+
+# Generated static files
+/build
+/staticfiles
+

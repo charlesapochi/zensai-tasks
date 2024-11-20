@@ -143,15 +143,15 @@ http://127.0.0.1:8000/graphql
 ## ✨ **Testing**
 
 ### **Backend Tests**
-Run tests for the backend:
+Navigate to the backend directory and run tests for the backend:
 ```bash
 poetry run python manage.py test
 ```
 
 ### **Frontend Tests**
-Run tests for the frontend:
+Navigate to the frontend directory and run tests for the frontend:
 ```bash
-npm test
+npm test -- --watchAll
 ```
 
 ---

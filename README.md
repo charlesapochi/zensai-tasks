@@ -45,8 +45,8 @@ A full-stack Todo List application built with **Django REST Framework** for the 
 
 #### **Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/todo-list-app.git
-cd todo-list-app
+git clone https://github.com/charlesapochi/zensai-tasks.git
+cd zensai-tasks
 ```
 
 ---
